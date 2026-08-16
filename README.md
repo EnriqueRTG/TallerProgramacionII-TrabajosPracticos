@@ -11,4 +11,5 @@ Repositorio destinado a los trabajos prácticos de la asignatura
 
 ## Trabajos
 - Practico1
-
+- Practico2
+- Practico3
